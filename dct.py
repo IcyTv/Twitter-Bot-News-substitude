@@ -79,5 +79,6 @@ repl = {"DEBATE": "DANCE-OFF",
         "POINTS": "DIGIMONS",
         "%": " PPB",
         "PERSON": "POKE TRAINER",
-        "SUSPECT": "VICTIM"
+        "SUSPECT": "VICTIM",
+        "CNN": "BUZZFEED"
         }
