@@ -7,5 +7,5 @@ Before using, please make sure the dependencies are met: `tweepy` and `six` <br 
 If you don't have the dependencies installed you can do so by typing <br />
 `pip install tweepy, six` <br />
 or on windows: <br />
-`python -m pip install tweepy`
+`python -m pip install tweepy, six`
 
